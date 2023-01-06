@@ -6,7 +6,7 @@
 
 ![USAGE GIF OR PIC TO CAPTURE ATTENTION](./assets/timemachine.gif)
 
-- [Live](youtube video) demonstration video.
+- [Live](https://youtu.be/fbNa4BXsA0c) demonstration video.
 
 
 <!-- ABOUT THE PROJECT -->
@@ -87,7 +87,7 @@ python3 main.py
 ctl + c
 ```
 
-_For a more comprehensive example of using this application, refer to this [video](example video here)_
+_For a more comprehensive example of using this application, refer to this [video](https://youtu.be/fbNa4BXsA0c)_
 
 
 
